@@ -1,4 +1,3 @@
-
 # Axit Landing Page
 
 A **Modern Axure Template** designed to create stunning prototypes with a professional and user-friendly interface.
@@ -25,4 +24,4 @@ A **Modern Axure Template** designed to create stunning prototypes with a profes
 
 ## Screenshots
 
-![Axit Landing Page Screenshot](assets/images/screenshot.png)
+![Axit Landing Page Screenshot](assets/screenshot.png)
